@@ -1,11 +1,9 @@
-numpy
-scipy
-matplotlib
-torch
-torchvision
-neurokit2
-biosppy
 streamlit
 scikit-learn
+matplotlib
 numpy
 joblib
+pandas
+neurokit2
+biosppy
+scipy
