@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+torch
+torchvision
+neurokit2
+biosppy
+streamlit
+scikit-learn
+numpy
+joblib
